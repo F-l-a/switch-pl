@@ -1,0 +1,1 @@
+If you're having problems, read the [Troubleshooting](https://github.com/bandithedoge/switch-pl/wiki/Troubleshooting) page.
